@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CattleLog Privacy Policy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; }
+        h1 { color: #8B7355; }
+        h2 { color: #6B8E23; margin-top: 30px; }
+        .highlight { background: #FFF5DC; padding: 15px; border-left: 4px solid #8B7355; margin: 20px 0; }
+        .contact { background: #F5F5F5; padding: 15px; border-radius: 8px; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <h1>🐂 CattleLog Privacy Policy</h1>
+    <p><strong>Last Updated:</strong> January 2026</p>
+    <p><strong>App Version:</strong> 1.1.0</p>
+
+    <div class="highlight">
+        <strong>🔒 Short Version:</strong> CattleLog does NOT collect, store, or share any of your data. 
+        All your cattle records stay on YOUR phone. No internet connection required. No accounts. No tracking.
+    </div>
+
+    <h2>1. Who We Are</h2>
+    <p>CattleLog is developed by VeldTech, a South African software developer focused on building offline-first tools for rural farmers.</p>
+    <p><strong>Contact:</strong> veldtech.dev@gmail.com</p>
+
+    <h2>2. What Data We Collect</h2>
+    <p><strong>None. Zero. Nada.</strong></p>
+    <p>CattleLog does NOT collect, transmit, or store any personal or farm data. All information you enter (animal tags, breeds, weights, medical records, photos) is stored ONLY on your device.</p>
+
+    <h2>3. Where Your Data Is Stored</h2>
+    <ul>
+        <li><strong>Database:</strong> Stored locally on your phone in the app's private storage</li>
+        <li><strong>Photos:</strong> Stored locally on your phone in the app's private storage</li>
+        <li><strong>Backups:</strong> Saved to your phone's Downloads folder (or location you choose) — you control these files</li>
+    </ul>
+    <p><strong>No data leaves your device unless you explicitly:</strong></p>
+    <ul>
+        <li>Share a PDF export via WhatsApp, email, or other apps</li>
+        <li>Copy backup files to a computer or cloud storage yourself</li>
+    </ul>
+
+    <h2>4. Permissions We Request</h2>
+    <table border="1" cellpadding="10" style="border-collapse: collapse; width: 100%;">
+        <tr style="background: #FFF5DC;">
+            <th>Permission</th>
+            <th>Why We Need It</th>
+            <th>Is It Required?</th>
+        </tr>
+        <tr>
+            <td><strong>Camera</strong></td>
+            <td>To take photos of animals for identification and health records</td>
+            <td>No — you can use CattleLog without adding photos</td>
+        </tr>
+        <tr>
+            <td><strong>Storage (via File Picker)</strong></td>
+            <td>To save backup files to your Downloads folder</td>
+            <td>No — backups are optional, but recommended</td>
+        </tr>
+    </table>
+    <p><strong>We do NOT request:</strong> Location, Contacts, Phone, SMS, Microphone, or Internet access.</p>
+
+    <h2>5. Data Sharing & Third Parties</h2>
+    <p><strong>We do NOT share your data with anyone.</strong></p>
+    <ul>
+        <li>❌ No analytics services (Google Analytics, Firebase, etc.)</li>
+        <li>❌ No advertising networks</li>
+        <li>❌ No data brokers or third-party trackers</li>
+        <li>❌ No cloud servers or databases</li>
+    </ul>
+    <p>The only time your data leaves your device is when YOU choose to:</p>
+    <ul>
+        <li>Export a PDF report and share it via WhatsApp, email, etc.</li>
+        <li>Copy backup files to another device or storage location</li>
+    </ul>
+
+    <h2>6. Internet Access</h2>
+    <p><strong>CattleLog works 100% offline.</strong></p>
+    <p>The app does NOT have internet permission. It cannot connect to the internet even if it wanted to. This means:</p>
+    <ul>
+        <li>✅ No data charges for farmers</li>
+        <li>✅ Works in areas with no signal</li>
+        <li>✅ Your data cannot be transmitted without your knowledge</li>
+    </ul>
+
+    <h2>7. Data Retention & Deletion</h2>
+    <ul>
+        <li><strong>How long we keep data:</strong> Indefinitely — until you delete the app or individual records</li>
+        <li><strong>How to delete your data:</strong>
+            <ul>
+                <li>Delete individual animals: Tap the animal → Edit → Delete</li>
+                <li>Delete all data: Uninstall the app (note: backup files in Downloads folder will remain — delete them manually if needed)</li>
+            </ul>
+        </li>
+        <li><strong>Backup files:</strong> These are YOUR files. We cannot access or delete them. Manage them via your phone's Files app.</li>
+    </ul>
+
+    <h2>8. Children's Privacy</h2>
+    <p>CattleLog is designed for adult farmers managing livestock. We do not knowingly collect data from children under 13. If a child uses this app with parental supervision, the same privacy protections apply (no data collection).</p>
+
+    <h2>9. Changes to This Policy</h2>
+    <p>If we ever change this privacy policy, we will:</p>
+    <ul>
+        <li>Update the "Last Updated" date</li>
+        <li>Notify users via the app (if applicable)</li>
+        <li>Post the updated policy on this page</li>
+    </ul>
+    <p><strong>We will NEVER start collecting data without your explicit consent.</strong></p>
+
+    <h2>10. Your Rights</h2>
+    <p>Since we don't collect your data, you already have full control. But for transparency:</p>
+    <ul>
+        <li><strong>Right to access:</strong> All your data is visible in the app</li>
+        <li><strong>Right to export:</strong> Use the PDF export feature to get your data</li>
+        <li><strong>Right to delete:</strong> Delete individual records or uninstall the app</li>
+        <li><strong>Right to portability:</strong> Backup files can be copied to any device</li>
+    </ul>
+
+    <h2>11. Security</h2>
+    <p>Your data is as secure as your phone. We recommend:</p>
+    <ul>
+        <li>Use a phone lock screen (PIN, pattern, fingerprint)</li>
+        <li>Make regular backups (tap Backup button monthly)</li>
+        <li>Store backup files on an SD card or computer for extra safety</li>
+    </ul>
+
+    <div class="contact">
+        <h2>📧 Contact Us</h2>
+        <p>Questions about this privacy policy? Concerns about your data?</p>
+        <p><strong>Email:</strong> veldtech.dev@gmail.com</p>
+        <p><strong>Response Time:</strong> Within 48 hours</p>
+        <p><strong>Location:</strong> South Africa</p>
+    </div>
+
+    <p style="margin-top: 40px; font-size: 12px; color: #666; text-align: center;">
+        This privacy policy complies with Google Play Store requirements and South African POPIA guidelines.
+    </p>
+</body>
+</html>
